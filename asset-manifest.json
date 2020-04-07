@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/MetricsServer/static/css/main.3b4e15f7.chunk.css",
+    "main.css": "/MetricsServer/static/css/main.e4ade8fb.chunk.css",
     "main.js": "/MetricsServer/static/js/main.09074470.chunk.js",
     "main.js.map": "/MetricsServer/static/js/main.09074470.chunk.js.map",
     "runtime-main.js": "/MetricsServer/static/js/runtime-main.15ee5bca.js",
@@ -9,10 +9,10 @@
     "static/js/2.5d04cf83.chunk.js": "/MetricsServer/static/js/2.5d04cf83.chunk.js",
     "static/js/2.5d04cf83.chunk.js.map": "/MetricsServer/static/js/2.5d04cf83.chunk.js.map",
     "index.html": "/MetricsServer/index.html",
-    "precache-manifest.ac0db4829ce8bcf74970503aaf19098a.js": "/MetricsServer/precache-manifest.ac0db4829ce8bcf74970503aaf19098a.js",
+    "precache-manifest.35a66bcf1c6d636e9acf8accf5805c57.js": "/MetricsServer/precache-manifest.35a66bcf1c6d636e9acf8accf5805c57.js",
     "service-worker.js": "/MetricsServer/service-worker.js",
     "static/css/2.57aec81e.chunk.css.map": "/MetricsServer/static/css/2.57aec81e.chunk.css.map",
-    "static/css/main.3b4e15f7.chunk.css.map": "/MetricsServer/static/css/main.3b4e15f7.chunk.css.map",
+    "static/css/main.e4ade8fb.chunk.css.map": "/MetricsServer/static/css/main.e4ade8fb.chunk.css.map",
     "static/js/2.5d04cf83.chunk.js.LICENSE.txt": "/MetricsServer/static/js/2.5d04cf83.chunk.js.LICENSE.txt",
     "static/media/calendar.svg": "/MetricsServer/static/media/calendar.def94e70.svg"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.15ee5bca.js",
     "static/css/2.57aec81e.chunk.css",
     "static/js/2.5d04cf83.chunk.js",
-    "static/css/main.3b4e15f7.chunk.css",
+    "static/css/main.e4ade8fb.chunk.css",
     "static/js/main.09074470.chunk.js"
   ]
 }
