@@ -50,7 +50,7 @@ export default function TopBar() {
   };
 
   return (
-    <Container className="container-top-bar" fluid>
+    <Container className="container-top-bar">
       <Row className="align-items-end">
         <Col xs="6" md="auto">
           <Calendar />
