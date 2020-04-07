@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e730eb7ec022b0d057b3e47e4b17e949",
+    "revision": "60454a686a6606bead0362a04fc42d32",
     "url": "/MetricsServer/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MetricsServer/static/css/2.57aec81e.chunk.css"
   },
   {
-    "revision": "8103b865fa3772cb1376",
-    "url": "/MetricsServer/static/css/main.e4ade8fb.chunk.css"
+    "revision": "39c7e02c9460cf69a7a3",
+    "url": "/MetricsServer/static/css/main.72914f58.chunk.css"
   },
   {
     "revision": "f944456846381f6e22c5",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MetricsServer/static/js/2.5d04cf83.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8103b865fa3772cb1376",
+    "revision": "39c7e02c9460cf69a7a3",
     "url": "/MetricsServer/static/js/main.09074470.chunk.js"
   },
   {
