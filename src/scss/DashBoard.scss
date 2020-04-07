@@ -1,0 +1,13 @@
+@import "./helpers/colors.scss";
+
+.container-dashboard {
+  .container {
+    padding: 16px;
+    margin-bottom: 16px;
+    border: solid 1px $light-grey;
+
+    h5 {
+      margin-bottom: 16px;
+    }
+  }
+}

@@ -1,7 +1,21 @@
-@import "./helpers//colors.scss";
+@import "./helpers/colors.scss";
 
 .App {
   font-family: "Roboto", sans-serif;
+  color: $dark-grey;
   text-align: left;
+}
+
+h2 {
+  padding: 16px;
+  margin: 0 !important;
   color: $very-dark-blue;
+}
+
+h5 {
+  color: $blue;
+}
+
+*:focus {
+  outline: none;
 }

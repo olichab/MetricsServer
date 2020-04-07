@@ -1,0 +1,16 @@
+.container-cpu-chart {
+  display: flex;
+  height: 300px !important;
+  width: 100% !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  border: none !important;
+
+  .chart {
+    margin: auto;
+  }
+}
+
+.title-cpu-chart {
+  margin: 8px !important;
+}

@@ -1,15 +1,15 @@
 import React from "react";
-import { Container, Row, Col } from "reactstrap";
+import { Container } from "reactstrap";
+import DashBoard from "./components/DashBoard";
+import TopBar from "./components/TopBar";
 import "./scss/App.scss";
 
 function App() {
   return (
     <Container className="App">
-      <Row>
-        <Col>
-          <h1>Metrics server</h1>
-        </Col>
-      </Row>
+      <h2>Metrics server</h2>
+      <TopBar />
+      <DashBoard />
     </Container>
   );
 }
