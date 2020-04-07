@@ -1,0 +1,59 @@
+@import "./helpers/colors.scss";
+
+.container-top-bar {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 0;
+  margin-top: 8px;
+  margin-bottom: 16px;
+
+  .calendar-icon {
+    display: block;
+    margin-left: auto;
+    height: 32px;
+  }
+
+  .btn-load-avg {
+    padding: 8px;
+    font-size: 0.8rem;
+    background-color: #fff;
+    color: $dark-blue;
+    border-color: $dark-blue;
+
+    &:hover,
+    &:active,
+    &:focus {
+      background-color: $dark-blue !important;
+      box-shadow: none !important;
+    }
+
+    p {
+      color: $dark-blue;
+      font-size: 0.75rem;
+      font-weight: 500;
+      padding: 4px;
+      margin: 0;
+    }
+  }
+
+  .active {
+    background-color: $dark-blue !important;
+    color: #fff;
+  }
+
+  .react-select-container {
+    width: 130px;
+    font-size: 0.8rem;
+
+    .react-select__control {
+      border-color: $dark-blue;
+    }
+
+    .react-select__option--is-focused,
+    .react-select__option--is-selected {
+      color: $dark-blue;
+      background-color: $very-light-blue;
+    }
+  }
+}

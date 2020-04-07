@@ -1,0 +1,19 @@
+@import "./helpers/colors.scss";
+
+.popover {
+  max-width: 100% !important;
+  padding: 4px !important;
+  background-color: $very-light-grey !important;
+  border: solid 1px $very-light-grey !important;
+  .arrow {
+    &::after {
+      border-bottom-color: $very-light-grey !important;
+    }
+  }
+}
+
+.Cal__Container__root {
+  .Cal__Header__date {
+    font-size: 1rem;
+  }
+}

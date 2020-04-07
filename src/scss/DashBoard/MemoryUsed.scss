@@ -1,0 +1,46 @@
+@import "../helpers/colors.scss";
+
+.container-memory-used {
+  .progress {
+    height: 25px;
+    background-color: $very-light-grey;
+
+    .bar-used,
+    .label-used {
+      background-color: $red;
+    }
+
+    .bar-buff {
+      background-color: $yellow;
+    }
+
+    .bar-cach {
+      background-color: $purple;
+    }
+  }
+
+  .infos-memory-used {
+    margin-top: 16px;
+    .label-used {
+      color: $red;
+    }
+
+    .label-buff {
+      color: $yellow;
+    }
+
+    .label-cach {
+      color: $purple;
+    }
+
+    .label-free {
+      color: $grey;
+    }
+
+    p {
+      font-size: 0.85rem;
+      font-weight: 500;
+      margin: 0;
+    }
+  }
+}
